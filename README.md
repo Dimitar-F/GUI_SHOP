@@ -1,2 +1,2 @@
-# GUI_SHOP_CODE
+# GUI_SHOP
 python
